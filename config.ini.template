@@ -1,0 +1,11 @@
+[Grid]
+sge_server: SERVER
+sge_root: SGE_ROOT
+
+[SQL]
+sql_type: mysql
+sql_server: SQL_SERVER
+sql_port:3306
+sql_user:SQL_USER
+sql_database:SQL_DBNAME
+sql_password:SQL_PAsSWORD
