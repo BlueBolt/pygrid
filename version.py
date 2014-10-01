@@ -1,5 +1,5 @@
 
-__version__ = [1,0,0,'b21b']
+__version__ = [1,0,0,'b21']
 
 version = '.'.join(str(i) for i in __version__)
 version_api = '.'.join(str(v).title() for v in __version__[:2])
